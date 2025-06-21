@@ -1,0 +1,10 @@
+aws_region = "us-east-1"
+aws_ami = "ami-09e6f87a47903347c" # Example Amazon Linux 2 AMI
+aws_secret_key = "security-key"
+aws_access_key = "access-key"
+aws_instance_type = "t2.micro"
+#subnet_id = "subnet-id"
+#security_group_id = "sg-id"
+aws_key_name = "key-pair-name"
+aws_instance_name = "web-server"
+aws_environment = "dev"
