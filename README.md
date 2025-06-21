@@ -1,4 +1,4 @@
-# GitHub Project:AWS Infrastructure as code(Iac) automation using Terraform
+# AWS Infrastructure as code(IaC) automation using Terraform
 
 Terraform project to create resources like EC2 and security groups in AWS
 
