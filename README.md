@@ -1,8 +1,8 @@
-# terraform-aws-ec2
+# GitHub Project:AWS Infrastructure as code(Iac) automation using Terraform
 
-Terraform project to create EC2 VM in AWS
+Terraform project to create resources like EC2 and security groups in AWS
 
-Define your AWS specific variables details in `terraform.tfvars` file.
+Define user specific AWS variables details in `terraform.tfvars` file.
 
 ## Steps to terraform
 
